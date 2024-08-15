@@ -18,6 +18,7 @@ def main():
                         '\n3- Para impressão da lista de produtos'
                         '\n4- Para venda do produto'
                         '\n5- Para reajuste: '
+                        '\n6- Para cadastrar '
                     ))
         if opcao == 1: 
             produtos.append(cadastro())
